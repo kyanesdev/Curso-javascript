@@ -93,7 +93,7 @@ class Celular{
 }
 
 
-let celular1 = new Celular();
+const celular1 = new Celular();
 
 celular1.setColor= "Rojo";
 
