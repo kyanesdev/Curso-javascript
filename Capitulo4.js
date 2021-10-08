@@ -14,3 +14,22 @@ document.write("</br>")
 
 let negrita = document.querySelector(".marcado");
 document.write(negrita);
+
+const rangoEtario = document.querySelector(".rangoEtario")
+document.write("</br>")
+document.write("</br>Aca abajo va el rango etario</br>")
+document.write(rangoEtario);
+
+rangoEtario.setAttribute("type","text");
+
+//------------------------------------------------------------
+
+const hola = document.querySelector(".hola");
+hola.setAttribute("contentEditable","true");
+
+
+
+
+
+
+
